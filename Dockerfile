@@ -1,4 +1,4 @@
-FROM n8nio/n8n:latest
+FROM n8nio/n8n:1.21.1
 USER root
 WORKDIR /home/node/packages/cli
 ENTRYPOINT []
